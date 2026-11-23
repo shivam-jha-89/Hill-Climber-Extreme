@@ -1,5 +1,10 @@
 # Hill Climb Racing (HTML5 Canvas & Physics Engine)
 
+**Design & Development: Mukund Kumar**
+Git clone - https://github.com/shivam-jha-89/Hill-Climber-Extreme
+
+live Demo - https://hill-climber-extreme.vercel.app/
+
 A classic 2D physics-based arcade hill climbing racing game built from scratch using pure vanilla JavaScript and HTML5 Canvas. Experience responsive driving physics, vehicle upgrades, diverse stages, and mid-air balance controls.
 
 ---
